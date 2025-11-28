@@ -61,15 +61,6 @@ AI-powered career growth platform with:
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/shubham-patil-7a8279242" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
-<a href="https://leetcode.com/shubham82p" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="40"/></a>
-<a href="https://www.hackerrank.com/66shubhamp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/shubhayoed" target="blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksForGeeks" width="40"/></a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -113,4 +104,8 @@ AI-powered career growth platform with:
   <a href="https://github.com/shubh823">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="[https://www.instagram.com/your_instagram_username](https://www.instagram.com/patil_shubham04/)" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>  
